@@ -10,3 +10,17 @@ git add -A
 git status
 git commit -m "init commit"
 git checkout -b main
+git checkout -b main
+git status
+git status
+git status
+git log
+git remote add origin https://github.com/bitewulign/bit_demo-cuddly-oct-adventure.git
+git push -u origin main
+git push
+
+# To dd updates
+git add -A
+git status
+git commit -m "Updated *.sh"
+git push
